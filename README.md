@@ -1,5 +1,3 @@
-I starting thinking about the Go package management earlier this year in Jan. (realizing I was 6 months to a year behind...), however in the past few months a lot of attention has been directed around the *Go Package Manager story*. That said, now seems like the time to add my thoughts to the discussion.
-
 ## GoPkgr: Steps Towards A Decentralized Package Manager ##
 
 Outlined below are steps towards the Decentralized Package Manager in somewhat phases:
